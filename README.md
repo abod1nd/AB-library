@@ -1,4 +1,4 @@
-# Drift
+# AB-library
 
 A header-only C++ helper library I built from the functions I kept rewriting while solving the [Programming Advices roadmap](https://github.com/abod1nd/programming-advices-roadmap) problems.
 
